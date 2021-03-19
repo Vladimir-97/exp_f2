@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  exp_f2.vcxproj -> C:\Users\Владимир\source\repos\exp_f2\Debug\exp_f2.exe
+  LINK : не найден или не выполнена сборка D:\github\exp_f2\Debug\exp_f2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  exp_f2.vcxproj -> D:\github\exp_f2\Debug\exp_f2.exe
